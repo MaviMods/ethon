@@ -9,7 +9,7 @@ async def start_srb(event, st):
                               [Button.inline("SET THUMB.", data="set"),
                                Button.inline("REM THUMB.", data="rem")],
                               [Button.url("Update Channel", url="t.me/MODSMAVI"),
-                               Button.url("Update Channel", url="t.me/mavibot_support")]])
+                               Button.url("Support Group", url="t.me/mavibot_support")]])
                               
     
 async def vc_menu(event):
